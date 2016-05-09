@@ -1,6 +1,8 @@
 [
   {
-    "repository": "android_hardware_samsung",
-    "target_path": "hardware/samsung"
+    "remote": "github",
+    "repository": "TurboROM-Devices/hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch": "mm"
   }
 ]

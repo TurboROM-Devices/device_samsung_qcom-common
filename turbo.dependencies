@@ -1,8 +1,8 @@
 [
   {
     "remote": "github",
-    "repository": "TurboROM-Devices/hardware_samsung",
+    "repository": "CyanogenMod/android_hardware_samsung",
     "target_path": "hardware/samsung",
-    "branch": "mm"
+    "branch": "cm-13.0"
   }
 ]

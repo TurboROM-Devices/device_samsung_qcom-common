@@ -1,4 +1,4 @@
-# Copyright (C) 2016 The Turbo Project
+# Copyright (C) 2012 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -23,7 +23,3 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.telephony.call_ring.multiple=0
-
-# Charger images
-PRODUCT_PACKAGES += \
-    charger_res_images

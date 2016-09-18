@@ -1,4 +1,4 @@
-# Copyright (C) 2016 The Phoenix Project
+# Copyright (C) 2012 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -27,10 +27,8 @@ TARGET_ARCH_VARIANT := armv7-a-neon
 BOARD_HARDWARE_CLASS += hardware/samsung/cmhw
 
 # Graphics
-USE_OPENGL_RENDERER := true
 TARGET_USES_C2D_COMPOSITION := true
 TARGET_USES_ION := true
-
 # Qualcomm support
 BOARD_USES_QCOM_HARDWARE := true
 
